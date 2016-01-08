@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuisterBieb", "LuisterBieb\LuisterBieb.csproj", "{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0543C6-B61E-4AB1-8B9B-3ED1A863DE40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
